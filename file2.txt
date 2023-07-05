@@ -1,2 +1,6 @@
 hi i am roushan and i am learning git
 this is version 1
+
+
+hi i am doing good
+this is version 2
